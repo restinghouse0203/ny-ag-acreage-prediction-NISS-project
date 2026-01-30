@@ -1,0 +1,2 @@
+ny_csb.feather_* filter=lfs diff=lfs merge=lfs -text
+ny_csb.parquet_* filter=lfs diff=lfs merge=lfs -text
