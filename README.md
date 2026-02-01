@@ -27,7 +27,6 @@ pip install geopandas pandas matplotlib fiona shapely pyproj pyarrow fastparquet
     - `ny_csb.csv_20172024`
 
 ## Project Structure
-.
 ├── NationalCSB_2017-2024_rev23/  # Raw Data (Not included in repo, availible on https://www.nass.usda.gov/Research_and_Science/Crop-Sequence-Boundaries/index.php)
 ├── data/                         # Processed Output
 ├── script.ipynb                  # Main processing pipeline
