@@ -8,3 +8,4 @@ output/*.parquet
 output/*.pth
 archive/
 .cursor/
+docs/admin/
