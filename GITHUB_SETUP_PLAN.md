@@ -233,11 +233,13 @@ Source: `ny-ag-acreage-prediction-NISS-project` (merged; see `archive/nested_nis
 
 ## Phase 5 — GitHub Publish
 
-- [ ] Decide canonical repo name: `Acreage-Forecasting-and-Uncertainty-Quantification-in-NY-State`
-- [ ] Archive or redirect old `ny-ag-acreage-prediction-NISS-project` repo
-- [ ] Update `acreage-estimation-capstone.yaml` `link:` to canonical URL
-- [ ] First commit (exclude `archive/`, `.venv/`, large checkpoints)
-- [ ] Push to GitHub
+> **Status:** ✅ Mostly complete (2026-07-02). Topics, pin, and release require `gh auth login`.
+
+- [x] Decide canonical repo name: `Acreage-Forecasting-and-Uncertainty-Quantification-in-NY-State`
+- [ ] Archive or redirect old `ny-ag-acreage-prediction-NISS-project` repo (manual on GitHub)
+- [x] Update `acreage-estimation-capstone.yaml` `link:` to canonical URL
+- [x] First commit (exclude `archive/`, `.venv/`, large checkpoints)
+- [x] Push to GitHub (`force-with-lease` replaced old remote layout)
 - [ ] Add repo topics: `machine-learning`, `agriculture`, `geospatial`, `uncertainty-quantification`, `catboost`, `cornell`
 - [ ] Pin repo on GitHub profile
 - [ ] Create release `v1.0-capstone` with report PDF attached
@@ -317,6 +319,8 @@ Source: `ny-ag-acreage-prediction-NISS-project` (merged; see `archive/nested_nis
 | 2026-07-02 | Phase 2 complete: `requirements.txt`, `environment.yml`, `.gitignore`, LFS; root git init; `data/.git` removed |
 | 2026-07-02 | Phase 3 complete: `data/README.md` (download URLs, regeneration steps, LFS policy); Zenodo skipped; sample deferred |
 | 2026-07-02 | Phase 4 complete: root README, CONTRIBUTORS, output/README, 8 curated figures, poster/slides PDFs, report rename |
+| 2026-07-02 | Path sanitization: cleared notebook outputs, fixed absolute paths; expanded LFS patterns for `*.feather_*` |
+| 2026-07-02 | Phase 5: initial commit + push to GitHub (4.8 GB LFS); career profile link updated |
 
 ### Current layout snapshot (after Phase 0)
 
