@@ -1,0 +1,9 @@
+*.parquet filter=lfs diff=lfs merge=lfs -text
+*.feather filter=lfs diff=lfs merge=lfs -text
+*.pth filter=lfs diff=lfs merge=lfs -text
+*.feather_* filter=lfs diff=lfs merge=lfs -text
+*.parquet_* filter=lfs diff=lfs merge=lfs -text
+*.csv_* filter=lfs diff=lfs merge=lfs -text
+data/soil/soil_features_NY.csv filter=lfs diff=lfs merge=lfs -text
+data/soil/csbid_mukey_mapping.csv filter=lfs diff=lfs merge=lfs -text
+data/ny_csb.parquet_20172024 filter=lfs diff=lfs merge=lfs -text

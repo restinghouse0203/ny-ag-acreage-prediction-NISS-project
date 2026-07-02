@@ -1,0 +1,21 @@
+name: acreage-capstone
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - geopandas
+  - pandas
+  - pyarrow
+  - catboost
+  - scikit-learn
+  - matplotlib
+  - seaborn
+  - pytorch
+  - fiona
+  - shapely
+  - pyproj
+  - statsmodels
+  - requests
+  - pip
+  - pip:
+      - nbconvert

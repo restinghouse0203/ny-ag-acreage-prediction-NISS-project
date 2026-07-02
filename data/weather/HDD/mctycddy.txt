@@ -1,0 +1,374 @@
+  
+                COOLING DEGREE DAY DATA MONTHLY SUMMARY
+                CLIMATE PREDICTION CENTER-NCEP-NWS-NOAA
+  
+                       MONTHLY DATA FOR JAN 2026
+                  ACCUMULATIONS ARE FROM JANUARY 1, 2026
+           -999 = NORMAL LESS THAN 100 OR RATIO INCALCULABLE
+  
+ STATE CITY        CALL MONTH MON  MON     CUM   CUM   CUM   CUM   CUM
+                        TOTAL DEV  DEV     TOTAL DEV   DEV   DEV   DEV
+                              FROM FROM          FROM  FROM  FROM  FROM
+                              NORM L YR          NORM  L YR  NORM  L YR
+                                                             PRCT  PRCT
+  
+ AL BIRMINGHAM      BHM    0    -1    0       0    -1     0  -999  -999
+ AL HUNTSVILLE      HSV    0     0    0       0     0     0  -999  -999
+ AL MOBILE          MOB   22    13   22      22    13    22  -999  -999
+ AL MONTGOMERY      MGM    1    -1    1       1    -1     1  -999  -999
+ AL MUSCLE SHOALS   MSL    4     4    4       4     4     4  -999  -999
+ AL TUSCALOOSA      TCL    2     2    2       2     2     2  -999  -999
+ AK ANCHORAGE       ANC    0     0    0       0     0     0  -999  -999
+ AK BARROW          BRW    0     0    0       0     0     0  -999  -999
+ AK BETHEL          BET    0     0    0       0     0     0  -999  -999
+ AK BETTLES         BTT    0     0    0       0     0     0  -999  -999
+ AK BIG DELTA       BIG    0     0    0       0     0     0  -999  -999
+ AK COLD BAY        CDB    0     0    0       0     0     0  -999  -999
+ AK CORDOVA         CDV    0     0    0       0     0     0  -999  -999
+ AK FAIRBANKS       FAI    0     0    0       0     0     0  -999  -999
+ AK GULKANA         GKN    0     0    0       0     0     0  -999  -999
+ AK HOMER           HOM    0     0    0       0     0     0  -999  -999
+ AK JUNEAU          JNU    0     0    0       0     0     0  -999  -999
+ AK KENAI           ENA    0     0    0       0     0     0  -999  -999
+ AK KETCHIKAN       KTN    0     0    0       0     0     0  -999  -999
+ AK KING SALMON     AKN    0     0    0       0     0     0  -999  -999
+ AK KODIAK          ADQ    0     0    0       0     0     0  -999  -999
+ AK KOTZEBUE        OTZ    0     0    0       0     0     0  -999  -999
+ AK MCGRATH         MCG    0     0    0       0     0     0  -999  -999
+ AK NOME            OME    0     0    0       0     0     0  -999  -999
+ AK NORTHWAY        ORT    0     0    0       0     0     0  -999  -999
+ AK ST PAUL ISLAND  SNP    0     0    0       0     0     0  -999  -999
+ AK SITKA           SIT    0     0    0       0     0     0  -999  -999
+ AK TALKEETNA       TKA    0     0    0       0     0     0  -999  -999
+ AK UNALAKLEET      UNK    0     0    0       0     0     0  -999  -999
+ AK VALDEZ          VWS    0     0    0       0     0     0  -999  -999
+ AK YAKUTAT         YAK    0     0    0       0     0     0  -999  -999
+ AZ DOUGLAS         DUG   12    12   -5      12    12    -5  -999  -999
+ AZ FLAGSTAFF       FLG    0     0    0       0     0     0  -999  -999
+ AZ PHOENIX         PHX    7     5    6       7     5     6  -999  -999
+ AZ TUCSON          TUS    0     0    0       0     0     0  -999  -999
+ AZ WINSLOW         INW    0     0    0       0     0     0  -999  -999
+ AZ YUMA            NYL    6    -6    6       6    -6     6  -999  -999
+ AR EL DORADO       ELD    1     1    1       1     1     1  -999  -999
+ AR FAYETTEVILLE    FYV    0     0    0       0     0     0  -999  -999
+ AR FORT SMITH      FSM    0     0    0       0     0     0  -999  -999
+ AR HARRISON        HRO    7     7    7       7     7     7  -999  -999
+ AR LITTLE ROCK     LIT    0     0    0       0     0     0  -999  -999
+ AR TEXARKANA       TXK   10    10   10      10    10    10  -999  -999
+ CA BAKERSFIELD     BFL    0     0    0       0     0     0  -999  -999
+ CA BLYTHE          BLH    0    -7    0       0    -7     0  -999  -999
+ CA EUREKA          EKA    0     0    0       0     0     0  -999  -999
+ CA FRESNO          FAT    0     0    0       0     0     0  -999  -999
+ CA IMPERIAL        IPL    0    -4    0       0    -4     0  -999  -999
+ CA LOS ANGELES     LAX   17    13   17      17    13    17  -999  -999
+ CA MT SHASTA       MHS    0     0   -1       0     0    -1  -999  -999
+ CA PASO ROBLES     PRB    0     0    0       0     0     0  -999  -999
+ CA RED BLUFF       RBL    0     0    0       0     0     0  -999  -999
+ CA REDDING         RDD    0     0   -1       0     0    -1  -999  -999
+ CA SACRAMENTO      SAC    0     0    0       0     0     0  -999  -999
+ CA SAN DIEGO       SAN    1    -1    1       1    -1     1  -999  -999
+ CA SAN FRANCISCO   SFO    0     0    0       0     0     0  -999  -999
+ CA STOCKTON        SCK    0     0    0       0     0     0  -999  -999
+ CO AKRON           AKO    0     0    0       0     0     0  -999  -999
+ CO ALAMOSA         ALS    0     0    0       0     0     0  -999  -999
+ CO COLORADO SPRINGSCOS    0     0    0       0     0     0  -999  -999
+ CO DENVER          DEN    0     0    0       0     0     0  -999  -999
+ CO EAGLE           EGE    0     0    0       0     0     0  -999  -999
+ CO GRAND JUNCTION  GJT    0     0    0       0     0     0  -999  -999
+ CO LA JUNTA        LHX    2     2    2       2     2     2  -999  -999
+ CO PUEBLO          PUB    0     0    0       0     0     0  -999  -999
+ CO TRINIDAD        TAD    0     0    0       0     0     0  -999  -999
+ CT BRIDGEPORT      BDR    0     0    0       0     0     0  -999  -999
+ CT HARTFORD        BDL    0     0    0       0     0     0  -999  -999
+ DE WILMINGTON      ILG    0     0    0       0     0     0  -999  -999
+ DC WASHINGTON      DCA    0     0    0       0     0     0  -999  -999
+ FL DAYTONA BEACH   DAB  193   157  103     193   157   103  -999  -999
+ FL FT LAUDERDALE   FLL  341   201   30     341   201    30   144    10
+ FL FORT MYERS      FMY  102     5   75     102     5    75  -999  -999
+ FL GAINESVILLE     GNV  159   151  110     159   151   110  -999  -999
+ FL JACKSONVILLE    JAX   25    10   21      25    10    21  -999  -999
+ FL KEY WEST        EYW  174     2   44     174     2    44     1    34
+ FL MELBOURNE       MLB   50    -5   34      50    -5    34  -999  -999
+ FL MIAMI           MIA  148    15   41     148    15    41    11    38
+ FL ORLANDO         MCO   49   -13   41      49   -13    41  -999  -999
+ FL PENSACOLA       PNS   21    16   19      21    16    19  -999  -999
+ FL TALLAHASSEE     TLH   15     6   15      15     6    15  -999  -999
+ FL TAMPA           TPA   60     3   52      60     3    52  -999  -999
+ FL VERO BEACH      VRB  280   196   89     280   196    89  -999  -999
+ FL WEST PALM BEACH PBI  147    38   80     147    38    80    35   119
+ GA ALBANY          ABY   73    73   64      73    73    64  -999  -999
+ GA ATHENS          AHN    8     8    8       8     8     8  -999  -999
+ GA ATLANTA         ATL    0     0    0       0     0     0  -999  -999
+ GA AUGUSTA         AGS   12    11   12      12    11    12  -999  -999
+ GA BRUNSWICK       BQK    6    -2    5       6    -2     5  -999  -999
+ GA COLUMBUS        CSG    3     2    3       3     2     3  -999  -999
+ GA MACON           MCN    9     8    9       9     8     9  -999  -999
+ GA SAVANNAH        SAV    9     3    8       9     3     8  -999  -999
+ GA WAYCROSS        AYS   15     7    9      15     7     9  -999  -999
+ HI HILO-HAWAII     ITO  242    44   -5     242    44    -5    22    -2
+ HI HONOLULU-OAHU   HNL  305    56  -28     305    56   -28    22    -8
+ HI KAHULUI-MAUI    OGG  277    67    1     277    67     1    32     0
+ HI LIHUE-KAUAI     LIH  254    47  -13     254    47   -13    23    -5
+ ID BOISE           BOI    0     0    0       0     0     0  -999  -999
+ ID BURLEY          BYI    0     0    0       0     0     0  -999  -999
+ ID IDAHO FALLS     IDA    0     0    0       0     0     0  -999  -999
+ ID LEWISTON        LWS    0     0    0       0     0     0  -999  -999
+ ID POCATELLO       PIH    0     0    0       0     0     0  -999  -999
+ IL CHICAGO         ORD    0     0    0       0     0     0  -999  -999
+ IL MOLINE          MLI    0     0    0       0     0     0  -999  -999
+ IL PEORIA          PIA    0     0    0       0     0     0  -999  -999
+ IL QUINCY          UIN    0     0    0       0     0     0  -999  -999
+ IL ROCKFORD        RFD    0     0    0       0     0     0  -999  -999
+ IL SPRINGFIELD     SPI    0     0    0       0     0     0  -999  -999
+ IN EVANSVILLE      EVV    0     0    0       0     0     0  -999  -999
+ IN FORT WAYNE      FWA    0     0    0       0     0     0  -999  -999
+ IN INDIANAPOLIS    IND    0     0    0       0     0     0  -999  -999
+ IN SOUTH BEND      SBN    0     0    0       0     0     0  -999  -999
+ IN WEST LAFAYETTE  LAF    0     0    0       0     0     0  -999  -999
+ IA BURLINGTON      BRL    0     0    0       0     0     0  -999  -999
+ IA CEDAR RAPIDS    CID    0     0    0       0     0     0  -999  -999
+ IA DES MOINES      DSM    0     0    0       0     0     0  -999  -999
+ IA DUBUQUE         DBQ    0     0    0       0     0     0  -999  -999
+ IA MASON CITY      MCW    0     0    0       0     0     0  -999  -999
+ IA OTTUMWA         OTM    0     0    0       0     0     0  -999  -999
+ IA SIOUX CITY      SUX    0     0    0       0     0     0  -999  -999
+ IA SPENCER         SPW    0     0    0       0     0     0  -999  -999
+ IA WATERLOO        ALO    0     0    0       0     0     0  -999  -999
+ KS CHANUTE         CNU    0     0    0       0     0     0  -999  -999
+ KS CONCORDIA       CNK    0     0    0       0     0     0  -999  -999
+ KS DODGE CITY      DDC    0     0    0       0     0     0  -999  -999
+ KS GARDEN CITY     GCK    0     0    0       0     0     0  -999  -999
+ KS GOODLAND        GLD    0     0    0       0     0     0  -999  -999
+ KS RUSSELL         RSL    0     0    0       0     0     0  -999  -999
+ KS SALINA          SLN    0     0    0       0     0     0  -999  -999
+ KS TOPEKA          TOP    0     0    0       0     0     0  -999  -999
+ KS WICHITA         ICT    0     0    0       0     0     0  -999  -999
+ KY BOWLING GREEN   BWG    0     0    0       0     0     0  -999  -999
+ KY JACKSON         JKL    2     2    2       2     2     2  -999  -999
+ KY LEXINGTON       LEX    0     0    0       0     0     0  -999  -999
+ KY LOUISVILLE      SDF    0     0    0       0     0     0  -999  -999
+ KY PADUCAH         PAH    0     0    0       0     0     0  -999  -999
+ LA BATON ROUGE     BTR   93    82   51      93    82    51  -999  -999
+ LA LAFAYETTE       LFT   28    21   21      28    21    21  -999  -999
+ LA LAKE CHARLES    LCH   25    16   21      25    16    21  -999  -999
+ LA MONROE          MLU   18    18   16      18    18    16  -999  -999
+ LA NEW ORLEANS     MSY   35    23   26      35    23    26  -999  -999
+ LA SHREVEPORT      SHV   17    11   17      17    11    17  -999  -999
+ ME AUGUSTA         AUG    0     0    0       0     0     0  -999  -999
+ ME BANGOR          BGR    0     0    0       0     0     0  -999  -999
+ ME CARIBOU         CAR    0     0    0       0     0     0  -999  -999
+ ME HOULTON         HUL    0     0    0       0     0     0  -999  -999
+ ME PORTLAND        PWM    0     0    0       0     0     0  -999  -999
+ MD BALTIMORE       BWI    0     0    0       0     0     0  -999  -999
+ MD SALISBURY       SBY    0     0    0       0     0     0  -999  -999
+ MA BOSTON          BOS    0     0    0       0     0     0  -999  -999
+ MA CHATHAM         CHH    0     0    0       0     0     0  -999  -999
+ MA WORCESTER       ORH    0     0    0       0     0     0  -999  -999
+ MI ALPENA          APN    0     0    0       0     0     0  -999  -999
+ MI DETROIT         DTW    0     0    0       0     0     0  -999  -999
+ MI FLINT           FNT    0     0    0       0     0     0  -999  -999
+ MI GRAND RAPIDS    GRR    0     0    0       0     0     0  -999  -999
+ MI HANCOCK         CMX    0     0    0       0     0     0  -999  -999
+ MI HOUGHTON LAKE   HTL    0     0    0       0     0     0  -999  -999
+ MI JACKSON         JXN    0     0    0       0     0     0  -999  -999
+ MI LANSING         LAN    0     0    0       0     0     0  -999  -999
+ MI MARQUETTE       SAW    0     0    0       0     0     0  -999  -999
+ MI MUSKEGON        MKG    0     0    0       0     0     0  -999  -999
+ MI SAGINAW         MBS    0     0    0       0     0     0  -999  -999
+ MI SAULT ST MARIE  ANJ    0     0    0       0     0     0  -999  -999
+ MI TRAVERSE CITY   TVC    0     0    0       0     0     0  -999  -999
+ MN ALEXANDRIA      AXN    0     0    0       0     0     0  -999  -999
+ MN DULUTH          DLH    0     0    0       0     0     0  -999  -999
+ MN HIBBING         HIB    0     0    0       0     0     0  -999  -999
+ MN INT'L FALLS     INL    0     0    0       0     0     0  -999  -999
+ MN MINNEAPOLIS     MSP    0     0    0       0     0     0  -999  -999
+ MN ROCHESTER       RST    0     0    0       0     0     0  -999  -999
+ MN SAINT CLOUD     STC    0     0    0       0     0     0  -999  -999
+ MS GREENWOOD       GWO   66    66   41      66    66    41  -999  -999
+ MS JACKSON         JAN   13    13   11      13    13    11  -999  -999
+ MS MCCOMB          MCB   15    15   10      15    15    10  -999  -999
+ MS MERIDIAN        MEI    3    -1    3       3    -1     3  -999  -999
+ MS TUPELO          TUP    3     3    3       3     3     3  -999  -999
+ MO COLUMBIA        COU    0     0    0       0     0     0  -999  -999
+ MO JOPLIN          JLN    0     0    0       0     0     0  -999  -999
+ MO KANSAS CITY     MCI    0     0    0       0     0     0  -999  -999
+ MO SAINT LOUIS     STL    0     0    0       0     0     0  -999  -999
+ MO SPRINGFIELD     SGF    0     0    0       0     0     0  -999  -999
+ MT BILLINGS        BIL    0     0    0       0     0     0  -999  -999
+ MT BUTTE           BTM    0     0    0       0     0     0  -999  -999
+ MT CUT BANK        CTB    0     0    0       0     0     0  -999  -999
+ MT GLASGOW         GGW    0     0    0       0     0     0  -999  -999
+ MT GREAT FALLS     GTF    0     0    0       0     0     0  -999  -999
+ MT HAVRE           HVR    0     0    0       0     0     0  -999  -999
+ MT HELENA          HLN    0     0    0       0     0     0  -999  -999
+ MT KALISPELL       FCA    0     0    0       0     0     0  -999  -999
+ MT LEWISTOWN       LWT    0     0    0       0     0     0  -999  -999
+ MT MILES CITY      MLS    0     0    0       0     0     0  -999  -999
+ MT MISSOULA        MSO    0     0    0       0     0     0  -999  -999
+ NE GRAND ISLAND    GRI    0     0    0       0     0     0  -999  -999
+ NE LINCOLN         LNK    0     0    0       0     0     0  -999  -999
+ NE NORFOLK         OFK    0     0    0       0     0     0  -999  -999
+ NE NORTH PLATTE    LBF    0     0    0       0     0     0  -999  -999
+ NE OMAHA           OMA    0     0    0       0     0     0  -999  -999
+ NE SCOTTSBLUFF     BFF    0     0    0       0     0     0  -999  -999
+ NE VALENTINE       VTN    0     0    0       0     0     0  -999  -999
+ NV ELKO            EKO    0     0    0       0     0     0  -999  -999
+ NV ELY             ELY    0     0    0       0     0     0  -999  -999
+ NV LAS VEGAS       LAS    0     0    0       0     0     0  -999  -999
+ NV LOVELOCK        LOL    0     0    0       0     0     0  -999  -999
+ NV RENO            RNO    0     0    0       0     0     0  -999  -999
+ NV TONOPAH         TPH    0     0    0       0     0     0  -999  -999
+ NV WINNEMUCCA      WMC    0     0    0       0     0     0  -999  -999
+ NH CONCORD         CON    0     0    0       0     0     0  -999  -999
+ NH LEBANON         LEB    0     0    0       0     0     0  -999  -999
+ NH MT WASHINGTON   MWN    0     0    0       0     0     0  -999  -999
+ NJ ATLANTIC CITY   ACY    0     0    0       0     0     0  -999  -999
+ NJ NEWARK          EWR    0     0    0       0     0     0  -999  -999
+ NM ALBUQUERQUE     ABQ    0     0    0       0     0     0  -999  -999
+ NM CARLSBAD        CNM    0     0    0       0     0     0  -999  -999
+ NM CLAYTON         CAO    0     0    0       0     0     0  -999  -999
+ NM GALLUP          GUP    0     0    0       0     0     0  -999  -999
+ NM ROSWELL         ROW    0     0    0       0     0     0  -999  -999
+ NM CLOVIS          CVN    0     0    0       0     0     0  -999  -999
+ NY ALBANY          ALB    0     0    0       0     0     0  -999  -999
+ NY BINGHAMTON      BGM    0     0    0       0     0     0  -999  -999
+ NY BUFFALO         BUF    0     0    0       0     0     0  -999  -999
+ NY GLENS FALLS     GFL    0     0    0       0     0     0  -999  -999
+ NY MASSENA         MSS    0     0    0       0     0     0  -999  -999
+ NY NEW YORK        LGA    0     0    0       0     0     0  -999  -999
+ NY ROCHESTER       ROC    0     0    0       0     0     0  -999  -999
+ NY SYRACUSE        SYR    0     0    0       0     0     0  -999  -999
+ NY UTICA           UCA    0     0    0       0     0     0  -999  -999
+ NY WATERTOWN       ART    0     0    0       0     0     0  -999  -999
+ NC ASHEVILLE       AVL    0     0    0       0     0     0  -999  -999
+ NC CAPE HATTERAS   HAT   36    36   25      36    36    25  -999  -999
+ NC CHARLOTTE       CLT    2     2    2       2     2     2  -999  -999
+ NC GREENSBORO      GSO    0     0    0       0     0     0  -999  -999
+ NC HICKORY         HKY   14    14   13      14    14    13  -999  -999
+ NC NEW BERN        EWN    2     2    2       2     2     2  -999  -999
+ NC RALEIGH DURHAM  RDU    3     3    3       3     3     3  -999  -999
+ NC WILMINGTON      ILM    2    -1    2       2    -1     2  -999  -999
+ ND BISMARCK        BIS    0     0    0       0     0     0  -999  -999
+ ND DEVIL'S LAKE    P11    0     0    0       0     0     0  -999  -999
+ ND DICKINSON       DIK    0     0    0       0     0     0  -999  -999
+ ND FARGO           FAR    0     0    0       0     0     0  -999  -999
+ ND GRAND FORKS     GFK    0     0    0       0     0     0  -999  -999
+ ND JAMESTOWN       JMS    0     0    0       0     0     0  -999  -999
+ ND MINOT           MOT    0     0    0       0     0     0  -999  -999
+ ND WILLISTON       ISN    0     0    0       0     0     0  -999  -999
+ OH AKRON CANTON    CAK    0     0    0       0     0     0  -999  -999
+ OH CLEVELAND       CLE    0     0    0       0     0     0  -999  -999
+ OH COLUMBUS        CMH    0     0    0       0     0     0  -999  -999
+ OH CINCINNATI      CVG    0     0    0       0     0     0  -999  -999
+ OH DAYTON          DAY    0     0    0       0     0     0  -999  -999
+ OH FINDLAY         FDY    0     0    0       0     0     0  -999  -999
+ OH MANSFIELD       MFD    0     0    0       0     0     0  -999  -999
+ OH TOLEDO          TOL    0     0    0       0     0     0  -999  -999
+ OH YOUNGSTOWN      YNG    0     0    0       0     0     0  -999  -999
+ OH LANCASTER       LHQ    0     0    0       0     0     0  -999  -999
+ OK GAGE            GAG    2     2    2       2     2     2  -999  -999
+ OK HOBART          HBR    0     0    0       0     0     0  -999  -999
+ OK MCALESTER       MLC    0     0    0       0     0     0  -999  -999
+ OK OKLAHOMA CITY   OKC    0     0    0       0     0     0  -999  -999
+ OK PONCA CITY      PNC    0     0    0       0     0     0  -999  -999
+ OK TULSA           TUL    0     0    0       0     0     0  -999  -999
+ OR ASTORIA         AST    0     0    0       0     0     0  -999  -999
+ OR BAKER           BKE    0     0    0       0     0     0  -999  -999
+ OR BURNS           BNO    0     0    0       0     0     0  -999  -999
+ OR EUGENE          EUG    0     0    0       0     0     0  -999  -999
+ OR MEDFORD         MFR    0     0    0       0     0     0  -999  -999
+ OR NORTH BEND      OTH    0     0    0       0     0     0  -999  -999
+ OR PENDLETON       PDT    0     0    0       0     0     0  -999  -999
+ OR PORTLAND        PDX    0     0    0       0     0     0  -999  -999
+ OR REDMOND         RDM    0     0    0       0     0     0  -999  -999
+ OR SALEM           SLE    0     0    0       0     0     0  -999  -999
+ PA ALLENTOWN       ABE    0     0    0       0     0     0  -999  -999
+ PA ALTOONA         AOO    0     0    0       0     0     0  -999  -999
+ PA BRADFORD        BFD    0     0    0       0     0     0  -999  -999
+ PA DU BOIS         DUJ    0     0    0       0     0     0  -999  -999
+ PA ERIE            ERI    0     0    0       0     0     0  -999  -999
+ PA HARRISBURG      CXY    0     0    0       0     0     0  -999  -999
+ PA PHILADELPHIA    PHL    0     0    0       0     0     0  -999  -999
+ PA PITTSBURGH      PIT    0     0    0       0     0     0  -999  -999
+ PA SCRANTON        AVP    0     0    0       0     0     0  -999  -999
+ PA WILLIAMSPORT    IPT    0     0    0       0     0     0  -999  -999
+ RI PROVIDENCE      PVD    0     0    0       0     0     0  -999  -999
+ SC CHARLESTON      CHS    6     3    6       6     3     6  -999  -999
+ SC COLUMBIA        CAE   10     8   10      10     8    10  -999  -999
+ SC FLORENCE        FLO    5     5    5       5     5     5  -999  -999
+ SC GREENVILLE      GSP    0     0    0       0     0     0  -999  -999
+ SD ABERDEEN        ABR    0     0    0       0     0     0  -999  -999
+ SD HURON           HON    0     0    0       0     0     0  -999  -999
+ SD PIERRE          PIR    0     0    0       0     0     0  -999  -999
+ SD RAPID CITY      RAP    0     0    0       0     0     0  -999  -999
+ SD SIOUX FALLS     FSD    0     0    0       0     0     0  -999  -999
+ SD WATERTOWN       ATY    0     0    0       0     0     0  -999  -999
+ TN BRISTOL         TRI    0     0   -1       0     0    -1  -999  -999
+ TN CHATTANOOGA     CHA    0     0    0       0     0     0  -999  -999
+ TN CROSSVILLE      CSV    3     3    3       3     3     3  -999  -999
+ TN JACKSON         MKL    1     1    1       1     1     1  -999  -999
+ TN KNOXVILLE       TYS    0     0    0       0     0     0  -999  -999
+ TN MEMPHIS         MEM    0    -1    0       0    -1     0  -999  -999
+ TN NASHVILLE       BNA    2     2    2       2     2     2  -999  -999
+ TX ABILENE         ABI   12    12   12      12    12    12  -999  -999
+ TX ALICE           ALI   85    52   53      85    52    53  -999  -999
+ TX AMARILLO        AMA    0     0    0       0     0     0  -999  -999
+ TX AUSTIN          AUS   25    18   25      25    18    25  -999  -999
+ TX BROWNSVILLE     BRO  112    58   41     112    58    41  -999  -999
+ TX COLLEGE STATION CLL  105    92   61     105    92    61  -999  -999
+ TX CORPUS CHRISTI  CRP   64    32   42      64    32    42  -999  -999
+ TX DALHART         DHT    7     7    7       7     7     7  -999  -999
+ TX DALLAS FT WORTH DFW    3     0    3       3     0     3  -999  -999
+ TX DEL RIO         DRT    9     7    7       9     7     7  -999  -999
+ TX EL PASO         ELP    0     0    0       0     0     0  -999  -999
+ TX GALVESTON       GLS   31    13   29      31    13    29  -999  -999
+ TX HOUSTON         IAH   46    31   45      46    31    45  -999  -999
+ TX LAREDO          LRD   61    29   48      61    29    48  -999  -999
+ TX LUBBOCK         LBB    0     0    0       0     0     0  -999  -999
+ TX LUFKIN          LFK   17    13   11      17    13    11  -999  -999
+ TX MCALLEN         MFE  121    55   52     121    55    52  -999  -999
+ TX MIDLAND ODESSA  MAF    0     0    0       0     0     0  -999  -999
+ TX PALACIOS        PSX   38    28   31      38    28    31  -999  -999
+ TX CONROE          CXO   30    18   30      30    18    30  -999  -999
+ TX SAN ANGELO      SJT    1     1    1       1     1     1  -999  -999
+ TX SAN ANTONIO     SAT   21    14   19      21    14    19  -999  -999
+ TX VICTORIA        VCT   38    20   19      38    20    19  -999  -999
+ TX WACO            ACT    6     4    6       6     4     6  -999  -999
+ TX WICHITA FALLS   SPS    0     0    0       0     0     0  -999  -999
+ UT CEDAR CITY      CDC    0     0    0       0     0     0  -999  -999
+ UT SALT LAKE CITY  SLC    0     0    0       0     0     0  -999  -999
+ VT BURLINGTON      BTV    0     0    0       0     0     0  -999  -999
+ VT MONTPELIER      MPV    0     0    0       0     0     0  -999  -999
+ VA LYNCHBURG       LYH    0     0    0       0     0     0  -999  -999
+ VA NORFOLK         ORF    2     1    2       2     1     2  -999  -999
+ VA RICHMOND        RIC    0     0    0       0     0     0  -999  -999
+ VA ROANOKE         ROA    0     0    0       0     0     0  -999  -999
+ WA BELLINGHAM      BLI    0     0    0       0     0     0  -999  -999
+ WA HOQUIAM         HQM    0     0    0       0     0     0  -999  -999
+ WA OLYMPIA         OLM    0     0    0       0     0     0  -999  -999
+ WA QUILLAYUTE      UIL    0     0    0       0     0     0  -999  -999
+ WA SEATTLE TACOMA  SEA    0     0    0       0     0     0  -999  -999
+ WA SPOKANE         GEG    0     0    0       0     0     0  -999  -999
+ WA WALLA WALLA     ALW    0     0    0       0     0     0  -999  -999
+ WA WENATCHEE       EAT    0     0    0       0     0     0  -999  -999
+ WA YAKIMA          YKM    0     0    0       0     0     0  -999  -999
+ WV BECKLEY         BKW    0     0    0       0     0     0  -999  -999
+ WV CHARLESTON      CRW    0     0    0       0     0     0  -999  -999
+ WV ELKINS          EKN    0     0    0       0     0     0  -999  -999
+ WV HUNTINGTON      HTS    0     0    0       0     0     0  -999  -999
+ WV MARTINSBURG     MRB    0     0    0       0     0     0  -999  -999
+ WV MORGANTOWN      MGW    0     0    0       0     0     0  -999  -999
+ WV PARKERSBURG     PKB    0     0    0       0     0     0  -999  -999
+ WI EAU CLAIRE      EAU    0     0    0       0     0     0  -999  -999
+ WI GREEN BAY       GRB    0     0    0       0     0     0  -999  -999
+ WI LACROSSE        LSE    0     0    0       0     0     0  -999  -999
+ WI MADISON         MSN    0     0    0       0     0     0  -999  -999
+ WI MILWAUKEE       MKE    0     0    0       0     0     0  -999  -999
+ WI WAUSAU          AUW    0     0    0       0     0     0  -999  -999
+ WY CASPER          CPR    0     0    0       0     0     0  -999  -999
+ WY CHEYENNE        CYS    0     0    0       0     0     0  -999  -999
+ WY CODY            COD    0     0    0       0     0     0  -999  -999
+ WY LANDER          LND    0     0    0       0     0     0  -999  -999
+ WY ROCK SPRINGS    RKS    0     0    0       0     0     0  -999  -999
+ WY SHERIDAN        SHR    0     0    0       0     0     0  -999  -999
+ WY WORLAND         WRL    0     0    0       0     0     0  -999  -999

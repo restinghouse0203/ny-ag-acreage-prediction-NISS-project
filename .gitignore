@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+.DS_Store
+catboost_info/
+data/raw/NationalCSB*/
+data/soil/csbid_mukey_checkpoint.csv
+output/*.parquet
+output/*.pth
+archive/
+.cursor/

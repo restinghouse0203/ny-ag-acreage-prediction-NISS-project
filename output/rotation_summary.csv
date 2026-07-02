@@ -1,0 +1,665 @@
+Rotation_Type,Window,CSBACRES,Strategy_Category
+Complex/Mixed,2008-2015,2279744.105533106,Complex/Mixed
+Cont. Alfalfa,2008-2015,16247.232066010793,Continuous
+Cont. Corn,2008-2015,167753.0530171288,Continuous
+Cont. Developed,2008-2015,8.66044798883853,Continuous
+Cont. Forest,2008-2015,22.385011037444166,Continuous
+Cont. Grass/Pasture,2008-2015,251.24154520971481,Continuous
+Cont. Other (12),2008-2015,26.989647291948387,Continuous
+Cont. Other (43),2008-2015,40.62506662087243,Continuous
+Cont. Other (49),2008-2015,2210.91570617077,Continuous
+Cont. Other (66),2008-2015,5.598835304044546,Continuous
+Cont. Other (68),2008-2015,6694.652134590875,Continuous
+Cont. Other (69),2008-2015,15851.469441893081,Continuous
+Cont. Other Hay,2008-2015,344884.62795920775,Continuous
+Cont. Soybeans,2008-2015,2945.7935728873435,Continuous
+Rot Alfalfa-Barley,2008-2015,52.870399654231605,Rotation
+Rot Alfalfa-Corn,2008-2015,344686.7104634815,Rotation
+Rot Alfalfa-Developed,2008-2015,331.91230937854294,Rotation
+Rot Alfalfa-Fallow,2008-2015,316.55918886365623,Rotation
+Rot Alfalfa-Forest,2008-2015,277.1023717406097,Rotation
+Rot Alfalfa-Grass/Pasture,2008-2015,14992.039429211749,Rotation
+Rot Alfalfa-Other (12),2008-2015,34.60903134785815,Rotation
+Rot Alfalfa-Other (122),2008-2015,7.815110420488442,Rotation
+Rot Alfalfa-Other (123),2008-2015,3.9416517427418682,Rotation
+Rot Alfalfa-Other (124),2008-2015,5.608024732913563,Rotation
+Rot Alfalfa-Other (142),2008-2015,5.764786501529343,Rotation
+Rot Alfalfa-Other (143),2008-2015,4.384488122935457,Rotation
+Rot Alfalfa-Other (152),2008-2015,9.166247711490865,Rotation
+Rot Alfalfa-Other (190),2008-2015,23.301611319627234,Rotation
+Rot Alfalfa-Other (195),2008-2015,6.4867743452873645,Rotation
+Rot Alfalfa-Other (205),2008-2015,5.778597792282705,Rotation
+Rot Alfalfa-Other (229),2008-2015,20.5676166524192,Rotation
+Rot Alfalfa-Other (243),2008-2015,5.511282431075749,Rotation
+Rot Alfalfa-Other (27),2008-2015,74.8076687467807,Rotation
+Rot Alfalfa-Other (28),2008-2015,647.60553523089,Rotation
+Rot Alfalfa-Other (42),2008-2015,210.9703155093841,Rotation
+Rot Alfalfa-Other (43),2008-2015,91.93898684225557,Rotation
+Rot Alfalfa-Other (49),2008-2015,18.79942015272004,Rotation
+Rot Alfalfa-Other (50),2008-2015,35.48197053800468,Rotation
+Rot Alfalfa-Other (53),2008-2015,27.19830506476861,Rotation
+Rot Alfalfa-Other (58),2008-2015,4.998914081751154,Rotation
+Rot Alfalfa-Other (66),2008-2015,57.1230847998755,Rotation
+Rot Alfalfa-Other (68),2008-2015,312.94536670161665,Rotation
+Rot Alfalfa-Other (69),2008-2015,81.63222899690408,Rotation
+Rot Alfalfa-Other Hay,2008-2015,109020.76549169859,Rotation
+Rot Alfalfa-Sod/Grass Seed,2008-2015,58.93504610752779,Rotation
+Rot Alfalfa-Sorghum,2008-2015,151.72527148050054,Rotation
+Rot Alfalfa-Soybeans,2008-2015,1150.019941693677,Rotation
+Rot Alfalfa-Winter Wheat,2008-2015,1287.1671409675646,Rotation
+Rot Barley-Corn,2008-2015,267.42858409895257,Rotation
+Rot Barley-Other Hay,2008-2015,122.76920112219602,Rotation
+Rot Corn-Developed,2008-2015,635.7363666182769,Rotation
+Rot Corn-Fallow,2008-2015,8893.608242014321,Rotation
+Rot Corn-Forest,2008-2015,5748.95825426422,Rotation
+Rot Corn-Grass/Pasture,2008-2015,29590.683538231246,Rotation
+Rot Corn-Other (111),2008-2015,1056.178719007872,Rotation
+Rot Corn-Other (12),2008-2015,651.9646785756831,Rotation
+Rot Corn-Other (122),2008-2015,180.872973022771,Rotation
+Rot Corn-Other (123),2008-2015,56.080550281271925,Rotation
+Rot Corn-Other (124),2008-2015,61.44866000909028,Rotation
+Rot Corn-Other (131),2008-2015,334.45609459023433,Rotation
+Rot Corn-Other (142),2008-2015,203.40544038202728,Rotation
+Rot Corn-Other (152),2008-2015,1070.026425401788,Rotation
+Rot Corn-Other (190),2008-2015,467.9411985439538,Rotation
+Rot Corn-Other (195),2008-2015,1940.849643033026,Rotation
+Rot Corn-Other (205),2008-2015,385.1595413366706,Rotation
+Rot Corn-Other (206),2008-2015,57.542859096678,Rotation
+Rot Corn-Other (222),2008-2015,198.19028974168586,Rotation
+Rot Corn-Other (225),2008-2015,236.5945138675465,Rotation
+Rot Corn-Other (229),2008-2015,69.12207908948865,Rotation
+Rot Corn-Other (243),2008-2015,1208.2677676379456,Rotation
+Rot Corn-Other (26),2008-2015,25.639556355017803,Rotation
+Rot Corn-Other (27),2008-2015,797.5732096389123,Rotation
+Rot Corn-Other (28),2008-2015,7409.665508913508,Rotation
+Rot Corn-Other (41),2008-2015,69.77279962313757,Rotation
+Rot Corn-Other (42),2008-2015,5288.749663253235,Rotation
+Rot Corn-Other (43),2008-2015,4887.313079264962,Rotation
+Rot Corn-Other (44),2008-2015,31.986450460483717,Rotation
+Rot Corn-Other (47),2008-2015,22.543497529524384,Rotation
+Rot Corn-Other (49),2008-2015,1122.2421005228757,Rotation
+Rot Corn-Other (50),2008-2015,160.19310721809043,Rotation
+Rot Corn-Other (53),2008-2015,1463.7402389715812,Rotation
+Rot Corn-Other (54),2008-2015,20.722015864671793,Rotation
+Rot Corn-Other (58),2008-2015,387.14179114766534,Rotation
+Rot Corn-Other (6),2008-2015,75.88563708570996,Rotation
+Rot Corn-Other (68),2008-2015,535.0263688375022,Rotation
+Rot Corn-Other (69),2008-2015,1360.9530591690389,Rotation
+Rot Corn-Other (70),2008-2015,66.83946702017884,Rotation
+Rot Corn-Other Hay,2008-2015,160322.9034244196,Rotation
+Rot Corn-Sod/Grass Seed,2008-2015,122.77928212755734,Rotation
+Rot Corn-Sorghum,2008-2015,504.40943776121037,Rotation
+Rot Corn-Soybeans,2008-2015,299342.1642227101,Rotation
+Rot Corn-Spring Wheat,2008-2015,450.38293649999696,Rotation
+Rot Corn-Winter Wheat,2008-2015,20117.213669698252,Rotation
+Rot Developed-Grass/Pasture,2008-2015,7.913635260256831,Rotation
+Rot Developed-Other (12),2008-2015,9.927253971634368,Rotation
+Rot Developed-Other (27),2008-2015,10.993550271558808,Rotation
+Rot Developed-Other (28),2008-2015,10.850934577365251,Rotation
+Rot Developed-Other (42),2008-2015,4.677582189411709,Rotation
+Rot Developed-Other (43),2008-2015,28.781714536931716,Rotation
+Rot Developed-Other (44),2008-2015,3.2849860672978095,Rotation
+Rot Developed-Other (66),2008-2015,3.058151541571584,Rotation
+Rot Developed-Other (68),2008-2015,96.14484737473092,Rotation
+Rot Developed-Other (69),2008-2015,7.505321498142929,Rotation
+Rot Developed-Other Hay,2008-2015,4736.106292976899,Rotation
+Rot Developed-Soybeans,2008-2015,46.768105701653774,Rotation
+Rot Developed-Winter Wheat,2008-2015,20.77087372714016,Rotation
+Rot Fallow-Grass/Pasture,2008-2015,37.447394446429826,Rotation
+Rot Fallow-Other (12),2008-2015,662.0262595803825,Rotation
+Rot Fallow-Other (42),2008-2015,5.430058104583487,Rotation
+Rot Fallow-Other (44),2008-2015,52.93180667907145,Rotation
+Rot Fallow-Other (49),2008-2015,36.66027575568203,Rotation
+Rot Fallow-Other (68),2008-2015,148.86741223168644,Rotation
+Rot Fallow-Other (69),2008-2015,314.3801328706126,Rotation
+Rot Fallow-Other Hay,2008-2015,5872.382831562243,Rotation
+Rot Fallow-Soybeans,2008-2015,248.25503525450577,Rotation
+Rot Forest-Grass/Pasture,2008-2015,43.02155963079101,Rotation
+Rot Forest-Other (190),2008-2015,3.9758225303502437,Rotation
+Rot Forest-Other (27),2008-2015,4.212480194307556,Rotation
+Rot Forest-Other (28),2008-2015,14.9661076362454,Rotation
+Rot Forest-Other (42),2008-2015,17.941264423364288,Rotation
+Rot Forest-Other (47),2008-2015,10.604428859211524,Rotation
+Rot Forest-Other (49),2008-2015,46.94662774561759,Rotation
+Rot Forest-Other (68),2008-2015,455.40385256049694,Rotation
+Rot Forest-Other (69),2008-2015,317.98951284771306,Rotation
+Rot Forest-Other Hay,2008-2015,6824.985105923461,Rotation
+Rot Forest-Soybeans,2008-2015,241.24729040215476,Rotation
+Rot Forest-Winter Wheat,2008-2015,20.5215293585667,Rotation
+Rot Grass/Pasture-Other (12),2008-2015,12.640195991503004,Rotation
+Rot Grass/Pasture-Other (152),2008-2015,37.68551957527194,Rotation
+Rot Grass/Pasture-Other (242),2008-2015,34.07243131435029,Rotation
+Rot Grass/Pasture-Other (27),2008-2015,20.324958537424983,Rotation
+Rot Grass/Pasture-Other (28),2008-2015,22.878319533800216,Rotation
+Rot Grass/Pasture-Other (42),2008-2015,11.071525164284246,Rotation
+Rot Grass/Pasture-Other (43),2008-2015,108.50150322241838,Rotation
+Rot Grass/Pasture-Other (49),2008-2015,44.358661860978614,Rotation
+Rot Grass/Pasture-Other (53),2008-2015,3.540053778441309,Rotation
+Rot Grass/Pasture-Other (58),2008-2015,18.7996928409896,Rotation
+Rot Grass/Pasture-Other (66),2008-2015,3.740648724159442,Rotation
+Rot Grass/Pasture-Other (68),2008-2015,12500.848287318042,Rotation
+Rot Grass/Pasture-Other (69),2008-2015,3336.14672114567,Rotation
+Rot Grass/Pasture-Other Hay,2008-2015,963210.9393748482,Rotation
+Rot Grass/Pasture-Soybeans,2008-2015,301.2443307015156,Rotation
+Rot Grass/Pasture-Winter Wheat,2008-2015,152.95564323494463,Rotation
+Rot Other (111)-Other (12),2008-2015,4.827024297623504,Rotation
+Rot Other (111)-Other (131),2008-2015,2.9595205308532524,Rotation
+Rot Other (111)-Other (206),2008-2015,8.403906348821799,Rotation
+Rot Other (111)-Other (43),2008-2015,19.355031878187937,Rotation
+Rot Other (111)-Other (49),2008-2015,329.78430826844834,Rotation
+Rot Other (111)-Other (92),2008-2015,11.498650286440455,Rotation
+Rot Other (111)-Other Hay,2008-2015,133.62191403362505,Rotation
+Rot Other (111)-Soybeans,2008-2015,5.634284860166935,Rotation
+Rot Other (111)-Winter Wheat,2008-2015,14.932932708071373,Rotation
+Rot Other (12)-Other (122),2008-2015,9.562416714448242,Rotation
+Rot Other (12)-Other (123),2008-2015,12.46689335279858,Rotation
+Rot Other (12)-Other (131),2008-2015,65.46525973666034,Rotation
+Rot Other (12)-Other (206),2008-2015,16.544933008524232,Rotation
+Rot Other (12)-Other (222),2008-2015,22.120658769899606,Rotation
+Rot Other (12)-Other (243),2008-2015,47.04690072152278,Rotation
+Rot Other (12)-Other (28),2008-2015,43.45095571683872,Rotation
+Rot Other (12)-Other (42),2008-2015,38.86022197712331,Rotation
+Rot Other (12)-Other (43),2008-2015,58.08602475484591,Rotation
+Rot Other (12)-Other (49),2008-2015,79.73606945596796,Rotation
+Rot Other (12)-Other (53),2008-2015,47.55747903302052,Rotation
+Rot Other (12)-Other Hay,2008-2015,51.45347653205405,Rotation
+Rot Other (12)-Sod/Grass Seed,2008-2015,3.310462360843073,Rotation
+Rot Other (12)-Soybeans,2008-2015,257.7415517694333,Rotation
+Rot Other (122)-Other (28),2008-2015,5.6757371843257465,Rotation
+Rot Other (122)-Other (42),2008-2015,3.3526235887542444,Rotation
+Rot Other (122)-Other (43),2008-2015,34.62363190926538,Rotation
+Rot Other (122)-Other (49),2008-2015,3.9301919267291714,Rotation
+Rot Other (122)-Other (68),2008-2015,36.484729992122055,Rotation
+Rot Other (122)-Other Hay,2008-2015,95.32933332054314,Rotation
+Rot Other (122)-Winter Wheat,2008-2015,2.8438838581898045,Rotation
+Rot Other (123)-Other (27),2008-2015,3.1522689051778925,Rotation
+Rot Other (123)-Other (47),2008-2015,2.5615729520441,Rotation
+Rot Other (123)-Other (49),2008-2015,15.500579458907753,Rotation
+Rot Other (123)-Other Hay,2008-2015,11.936350993100344,Rotation
+Rot Other (123)-Soybeans,2008-2015,3.074691044559779,Rotation
+Rot Other (123)-Winter Wheat,2008-2015,2.916792219781272,Rotation
+Rot Other (124)-Other (243),2008-2015,3.2043755762846056,Rotation
+Rot Other (124)-Other (27),2008-2015,5.601607616405416,Rotation
+Rot Other (124)-Other (43),2008-2015,5.34196472517075,Rotation
+Rot Other (124)-Other (49),2008-2015,32.244098986043966,Rotation
+Rot Other (124)-Other (53),2008-2015,3.4930831380246508,Rotation
+Rot Other (124)-Other (6),2008-2015,10.296286996026652,Rotation
+Rot Other (124)-Other Hay,2008-2015,26.809620024383268,Rotation
+Rot Other (131)-Other (221),2008-2015,6.538682319582933,Rotation
+Rot Other (131)-Other (229),2008-2015,3.146140413960416,Rotation
+Rot Other (131)-Other (27),2008-2015,22.550633729912512,Rotation
+Rot Other (131)-Other (28),2008-2015,6.9188868509462065,Rotation
+Rot Other (131)-Other (42),2008-2015,416.4162323564539,Rotation
+Rot Other (131)-Other (43),2008-2015,69.41449496769897,Rotation
+Rot Other (131)-Other (48),2008-2015,4.20014689615615,Rotation
+Rot Other (131)-Other (49),2008-2015,24.88879657342,Rotation
+Rot Other (131)-Other (53),2008-2015,6.364668037317456,Rotation
+Rot Other (131)-Other Hay,2008-2015,3.4370619160800264,Rotation
+Rot Other (131)-Soybeans,2008-2015,27.131022057927105,Rotation
+Rot Other (131)-Winter Wheat,2008-2015,4.937562532146835,Rotation
+Rot Other (142)-Other (28),2008-2015,234.09563520375522,Rotation
+Rot Other (142)-Other (67),2008-2015,2.916174933385442,Rotation
+Rot Other (142)-Other Hay,2008-2015,3.0979141312152234,Rotation
+Rot Other (142)-Sorghum,2008-2015,30.68472337030807,Rotation
+Rot Other (143)-Other (28),2008-2015,5.58694104066574,Rotation
+Rot Other (143)-Other (69),2008-2015,12.245876147643159,Rotation
+Rot Other (143)-Other Hay,2008-2015,21.52835146055551,Rotation
+Rot Other (152)-Other (49),2008-2015,8.551113790947223,Rotation
+Rot Other (152)-Other (68),2008-2015,37.16535080325348,Rotation
+Rot Other (152)-Other Hay,2008-2015,760.7786522027412,Rotation
+Rot Other (190)-Other (28),2008-2015,99.46803531479439,Rotation
+Rot Other (190)-Other (43),2008-2015,10.949635192166172,Rotation
+Rot Other (190)-Other (49),2008-2015,198.256455877951,Rotation
+Rot Other (190)-Other Hay,2008-2015,98.68058802964856,Rotation
+Rot Other (190)-Soybeans,2008-2015,13.313799865087379,Rotation
+Rot Other (195)-Other (49),2008-2015,165.23727483739,Rotation
+Rot Other (195)-Other Hay,2008-2015,71.98542904264164,Rotation
+Rot Other (195)-Winter Wheat,2008-2015,18.81135509438023,Rotation
+Rot Other (205)-Other Hay,2008-2015,90.4531148954301,Rotation
+Rot Other (220)-Other (68),2008-2015,10.176848058516669,Rotation
+Rot Other (222)-Other (49),2008-2015,27.816925284402302,Rotation
+Rot Other (222)-Other Hay,2008-2015,7.168054652446816,Rotation
+Rot Other (222)-Sod/Grass Seed,2008-2015,3.7220898588169162,Rotation
+Rot Other (224)-Other Hay,2008-2015,30.732607283318295,Rotation
+Rot Other (226)-Other Hay,2008-2015,32.46379989636045,Rotation
+Rot Other (227)-Other (49),2008-2015,21.9662628087525,Rotation
+Rot Other (229)-Other Hay,2008-2015,9.246205369135236,Rotation
+Rot Other (229)-Sod/Grass Seed,2008-2015,2.904097467421483,Rotation
+Rot Other (243)-Soybeans,2008-2015,4.30211022367534,Rotation
+Rot Other (26)-Other Hay,2008-2015,10.010720609355094,Rotation
+Rot Other (27)-Other (43),2008-2015,317.1428381027379,Rotation
+Rot Other (27)-Other Hay,2008-2015,267.1948268095911,Rotation
+Rot Other (27)-Soybeans,2008-2015,13.403140247259511,Rotation
+Rot Other (27)-Winter Wheat,2008-2015,20.48687593071283,Rotation
+Rot Other (28)-Other (43),2008-2015,303.25550150702634,Rotation
+Rot Other (28)-Other Hay,2008-2015,1908.116905860739,Rotation
+Rot Other (28)-Soybeans,2008-2015,100.44167880764923,Rotation
+Rot Other (28)-Winter Wheat,2008-2015,25.918384034523502,Rotation
+Rot Other (29)-Other Hay,2008-2015,27.55042719802581,Rotation
+Rot Other (30)-Other Hay,2008-2015,9.280018003678858,Rotation
+Rot Other (42)-Other Hay,2008-2015,156.41835069369762,Rotation
+Rot Other (42)-Soybeans,2008-2015,89.87880643024356,Rotation
+Rot Other (43)-Other (49),2008-2015,535.2057623444853,Rotation
+Rot Other (43)-Other (69),2008-2015,3.940744523925153,Rotation
+Rot Other (43)-Other Hay,2008-2015,43.52585327487173,Rotation
+Rot Other (43)-Soybeans,2008-2015,60.133468367940495,Rotation
+Rot Other (43)-Winter Wheat,2008-2015,232.52101875868235,Rotation
+Rot Other (44)-Other (68),2008-2015,19.673852994931657,Rotation
+Rot Other (44)-Other (69),2008-2015,46.67740574675145,Rotation
+Rot Other (44)-Other Hay,2008-2015,24.27636182280612,Rotation
+Rot Other (49)-Other Hay,2008-2015,88.95412811899875,Rotation
+Rot Other (49)-Sod/Grass Seed,2008-2015,473.46257780394706,Rotation
+Rot Other (49)-Soybeans,2008-2015,625.5489615930064,Rotation
+Rot Other (49)-Winter Wheat,2008-2015,18.454494817486168,Rotation
+Rot Other (53)-Other (68),2008-2015,23.350641725599566,Rotation
+Rot Other (53)-Other Hay,2008-2015,8.010764777472106,Rotation
+Rot Other (53)-Soybeans,2008-2015,59.42600420130367,Rotation
+Rot Other (57)-Sod/Grass Seed,2008-2015,6.192032272009625,Rotation
+Rot Other (58)-Other Hay,2008-2015,223.73129000650832,Rotation
+Rot Other (6)-Other Hay,2008-2015,6.894564470290332,Rotation
+Rot Other (66)-Other (68),2008-2015,115.34911694580498,Rotation
+Rot Other (66)-Other (69),2008-2015,13.44456651276748,Rotation
+Rot Other (67)-Other (68),2008-2015,15.218590248379234,Rotation
+Rot Other (68)-Other (69),2008-2015,25.0568276941171,Rotation
+Rot Other (68)-Other (71),2008-2015,7.176040802049998,Rotation
+Rot Other (68)-Other Hay,2008-2015,1036.8578385040003,Rotation
+Rot Other (68)-Soybeans,2008-2015,44.454443380073805,Rotation
+Rot Other (68)-Winter Wheat,2008-2015,15.887869150814112,Rotation
+Rot Other (69)-Other Hay,2008-2015,1057.8279355796342,Rotation
+Rot Other (69)-Soybeans,2008-2015,143.81223408330249,Rotation
+Rot Other (69)-Winter Wheat,2008-2015,71.43634349041452,Rotation
+Rot Other Hay-Sod/Grass Seed,2008-2015,148.82756185697258,Rotation
+Rot Other Hay-Sorghum,2008-2015,60.032150202683084,Rotation
+Rot Other Hay-Soybeans,2008-2015,1419.7797311850152,Rotation
+Rot Other Hay-Winter Wheat,2008-2015,1471.5207049847938,Rotation
+Rot Sod/Grass Seed-Soybeans,2008-2015,148.5295859150935,Rotation
+Rot Soybeans-Winter Wheat,2008-2015,4152.55639467856,Rotation
+Cont. Alfalfa,2016-Bridge,647252.6542520955,Continuous
+Cont. Barley,2016-Bridge,2413.2859281599403,Continuous
+Cont. Corn,2016-Bridge,1298111.2105289886,Continuous
+Cont. Developed,2016-Bridge,16728.471333026944,Continuous
+Cont. Fallow,2016-Bridge,65696.45979995195,Continuous
+Cont. Forest,2016-Bridge,28442.722862359125,Continuous
+Cont. Grass/Pasture,2016-Bridge,686878.3610853354,Continuous
+Cont. Other (0),2016-Bridge,3.6649624744890943,Continuous
+Cont. Other (111),2016-Bridge,2598.8371931644806,Continuous
+Cont. Other (12),2016-Bridge,10232.361319906126,Continuous
+Cont. Other (122),2016-Bridge,1682.3583963580386,Continuous
+Cont. Other (123),2016-Bridge,733.3453011974634,Continuous
+Cont. Other (124),2016-Bridge,822.089831961702,Continuous
+Cont. Other (131),2016-Bridge,2501.6090976996916,Continuous
+Cont. Other (142),2016-Bridge,334.0426273449506,Continuous
+Cont. Other (143),2016-Bridge,103.18068464519716,Continuous
+Cont. Other (152),2016-Bridge,4029.530759467541,Continuous
+Cont. Other (190),2016-Bridge,3929.43910601869,Continuous
+Cont. Other (195),2016-Bridge,5226.940980906956,Continuous
+Cont. Other (205),2016-Bridge,2959.9509592239588,Continuous
+Cont. Other (206),2016-Bridge,777.8484967710286,Continuous
+Cont. Other (214),2016-Bridge,90.09711110358964,Continuous
+Cont. Other (216),2016-Bridge,27.8174280244793,Continuous
+Cont. Other (219),2016-Bridge,128.79168014020615,Continuous
+Cont. Other (220),2016-Bridge,8.67448625874848,Continuous
+Cont. Other (221),2016-Bridge,4.3276942749266585,Continuous
+Cont. Other (222),2016-Bridge,2514.205717732074,Continuous
+Cont. Other (225),2016-Bridge,455.77920131030174,Continuous
+Cont. Other (226),2016-Bridge,69.82457350928875,Continuous
+Cont. Other (229),2016-Bridge,856.836593284081,Continuous
+Cont. Other (237),2016-Bridge,21.343178545485053,Continuous
+Cont. Other (240),2016-Bridge,33.25669918863045,Continuous
+Cont. Other (242),2016-Bridge,15.760902519447214,Continuous
+Cont. Other (243),2016-Bridge,10750.943500630912,Continuous
+Cont. Other (244),2016-Bridge,17.277476612469066,Continuous
+Cont. Other (26),2016-Bridge,14.888609724874224,Continuous
+Cont. Other (27),2016-Bridge,6836.818350079021,Continuous
+Cont. Other (28),2016-Bridge,31791.278607272016,Continuous
+Cont. Other (29),2016-Bridge,171.1405543876263,Continuous
+Cont. Other (30),2016-Bridge,461.3283971906129,Continuous
+Cont. Other (39),2016-Bridge,740.9483275447044,Continuous
+Cont. Other (41),2016-Bridge,1394.0124121524736,Continuous
+Cont. Other (42),2016-Bridge,33415.1073578905,Continuous
+Cont. Other (43),2016-Bridge,13264.814974235987,Continuous
+Cont. Other (47),2016-Bridge,37.59151650464796,Continuous
+Cont. Other (49),2016-Bridge,10751.183470465372,Continuous
+Cont. Other (50),2016-Bridge,932.642038656741,Continuous
+Cont. Other (53),2016-Bridge,9316.108394667106,Continuous
+Cont. Other (54),2016-Bridge,15.096250143169506,Continuous
+Cont. Other (56),2016-Bridge,5.113360610960828,Continuous
+Cont. Other (57),2016-Bridge,15.934495109807632,Continuous
+Cont. Other (58),2016-Bridge,6940.745861827714,Continuous
+Cont. Other (6),2016-Bridge,614.4879704337131,Continuous
+Cont. Other (66),2016-Bridge,90.7171176564618,Continuous
+Cont. Other (67),2016-Bridge,13.57205051237188,Continuous
+Cont. Other (68),2016-Bridge,36284.40882208749,Continuous
+Cont. Other (69),2016-Bridge,29088.480467923615,Continuous
+Cont. Other (70),2016-Bridge,172.25383821726214,Continuous
+Cont. Other (77),2016-Bridge,7.142813780113853,Continuous
+Cont. Other (92),2016-Bridge,15.361550571791268,Continuous
+Cont. Other Hay,2016-Bridge,1359214.8626421657,Continuous
+Cont. Sod/Grass Seed,2016-Bridge,2282.16189803113,Continuous
+Cont. Sorghum,2016-Bridge,1167.13709706942,Continuous
+Cont. Soybeans,2016-Bridge,374758.5456479455,Continuous
+Cont. Spring Wheat,2016-Bridge,698.4312868059549,Continuous
+Cont. Winter Wheat,2016-Bridge,119529.98258289846,Continuous
+Complex/Mixed,2017-2024,1871655.5746197584,Complex/Mixed
+Cont. Alfalfa,2017-2024,14790.552410653738,Continuous
+Cont. Corn,2017-2024,157944.22282784845,Continuous
+Cont. Developed,2017-2024,12.64423769319129,Continuous
+Cont. Forest,2017-2024,14.63132761142087,Continuous
+Cont. Grass/Pasture,2017-2024,348.63722678306846,Continuous
+Cont. Other (122),2017-2024,3.37230772989636,Continuous
+Cont. Other (27),2017-2024,4.99278125677535,Continuous
+Cont. Other (49),2017-2024,2273.0478165482455,Continuous
+Cont. Other (66),2017-2024,10.9234421851892,Continuous
+Cont. Other (67),2017-2024,48.01909485741512,Continuous
+Cont. Other (68),2017-2024,18493.48698171814,Continuous
+Cont. Other (69),2017-2024,12646.295690882704,Continuous
+Cont. Other Hay,2017-2024,19126.702106302393,Continuous
+Cont. Soybeans,2017-2024,3174.1989647811874,Continuous
+Rot Alfalfa-Corn,2017-2024,335105.70640245744,Rotation
+Rot Alfalfa-Developed,2017-2024,644.4046401843926,Rotation
+Rot Alfalfa-Fallow,2017-2024,514.2505296979422,Rotation
+Rot Alfalfa-Forest,2017-2024,166.88541441771935,Rotation
+Rot Alfalfa-Grass/Pasture,2017-2024,133517.48051768122,Rotation
+Rot Alfalfa-Other (12),2017-2024,187.93317602654622,Rotation
+Rot Alfalfa-Other (122),2017-2024,3.73234264988892,Rotation
+Rot Alfalfa-Other (123),2017-2024,4.13959387208598,Rotation
+Rot Alfalfa-Other (142),2017-2024,6.7749853632279695,Rotation
+Rot Alfalfa-Other (143),2017-2024,5.14767675337137,Rotation
+Rot Alfalfa-Other (205),2017-2024,65.88510727972283,Rotation
+Rot Alfalfa-Other (222),2017-2024,50.648890457593296,Rotation
+Rot Alfalfa-Other (227),2017-2024,4.12813915847576,Rotation
+Rot Alfalfa-Other (228),2017-2024,248.43664670495528,Rotation
+Rot Alfalfa-Other (237),2017-2024,9.58709683421866,Rotation
+Rot Alfalfa-Other (243),2017-2024,52.0947304096346,Rotation
+Rot Alfalfa-Other (254),2017-2024,5.05016113416012,Rotation
+Rot Alfalfa-Other (26),2017-2024,8.24313807646962,Rotation
+Rot Alfalfa-Other (27),2017-2024,134.27040436295076,Rotation
+Rot Alfalfa-Other (28),2017-2024,221.71438249998533,Rotation
+Rot Alfalfa-Other (29),2017-2024,3.96610080207738,Rotation
+Rot Alfalfa-Other (42),2017-2024,119.81245930699127,Rotation
+Rot Alfalfa-Other (43),2017-2024,20.29198300021709,Rotation
+Rot Alfalfa-Other (47),2017-2024,9.68598625117764,Rotation
+Rot Alfalfa-Other (50),2017-2024,132.57166604944277,Rotation
+Rot Alfalfa-Other (53),2017-2024,97.5428913032678,Rotation
+Rot Alfalfa-Other (58),2017-2024,147.84334013772295,Rotation
+Rot Alfalfa-Other (6),2017-2024,17.74773250338469,Rotation
+Rot Alfalfa-Other (67),2017-2024,3.60842581192403,Rotation
+Rot Alfalfa-Other (68),2017-2024,643.8941356732771,Rotation
+Rot Alfalfa-Other (69),2017-2024,22.43813921695606,Rotation
+Rot Alfalfa-Other (70),2017-2024,18.2181142214871,Rotation
+Rot Alfalfa-Other (92),2017-2024,6.22038852723128,Rotation
+Rot Alfalfa-Other Hay,2017-2024,15127.140351384514,Rotation
+Rot Alfalfa-Sod/Grass Seed,2017-2024,82.58597647586447,Rotation
+Rot Alfalfa-Sorghum,2017-2024,57.76390797907793,Rotation
+Rot Alfalfa-Soybeans,2017-2024,2182.3330275397975,Rotation
+Rot Alfalfa-Spring Wheat,2017-2024,3.60589725825086,Rotation
+Rot Alfalfa-Winter Wheat,2017-2024,814.526156952722,Rotation
+Rot Barley-Corn,2017-2024,317.31388756531936,Rotation
+Rot Barley-Forest,2017-2024,2.76957791436147,Rotation
+Rot Barley-Grass/Pasture,2017-2024,15.00549829327256,Rotation
+Rot Barley-Other (142),2017-2024,3.09055018233855,Rotation
+Rot Barley-Other (68),2017-2024,13.668719964732,Rotation
+Rot Barley-Other Hay,2017-2024,13.034259054760899,Rotation
+Rot Corn-Developed,2017-2024,313.97174061387483,Rotation
+Rot Corn-Fallow,2017-2024,13894.240918017007,Rotation
+Rot Corn-Forest,2017-2024,3601.5117426380266,Rotation
+Rot Corn-Grass/Pasture,2017-2024,44744.35541961324,Rotation
+Rot Corn-Other (11),2017-2024,6.96387217298299,Rotation
+Rot Corn-Other (111),2017-2024,120.16609883883073,Rotation
+Rot Corn-Other (12),2017-2024,592.0184088157348,Rotation
+Rot Corn-Other (122),2017-2024,41.59868571058896,Rotation
+Rot Corn-Other (123),2017-2024,111.24302879711497,Rotation
+Rot Corn-Other (124),2017-2024,45.1149262068407,Rotation
+Rot Corn-Other (13),2017-2024,7.978202615992879,Rotation
+Rot Corn-Other (131),2017-2024,350.4399182640766,Rotation
+Rot Corn-Other (142),2017-2024,215.5316540175552,Rotation
+Rot Corn-Other (152),2017-2024,23.24291272993637,Rotation
+Rot Corn-Other (190),2017-2024,595.9882793860514,Rotation
+Rot Corn-Other (195),2017-2024,777.0077161982956,Rotation
+Rot Corn-Other (205),2017-2024,591.0765897707182,Rotation
+Rot Corn-Other (206),2017-2024,229.9659053730824,Rotation
+Rot Corn-Other (216),2017-2024,3.31464283489839,Rotation
+Rot Corn-Other (219),2017-2024,38.02241037810264,Rotation
+Rot Corn-Other (221),2017-2024,8.59103993136792,Rotation
+Rot Corn-Other (222),2017-2024,25.359771804685813,Rotation
+Rot Corn-Other (225),2017-2024,536.9970433431456,Rotation
+Rot Corn-Other (226),2017-2024,197.4330230817212,Rotation
+Rot Corn-Other (228),2017-2024,3453.6492458009943,Rotation
+Rot Corn-Other (229),2017-2024,147.94743812809517,Rotation
+Rot Corn-Other (243),2017-2024,339.169979438685,Rotation
+Rot Corn-Other (244),2017-2024,29.3855036601453,Rotation
+Rot Corn-Other (245),2017-2024,11.40712313618187,Rotation
+Rot Corn-Other (25),2017-2024,23.582615079771763,Rotation
+Rot Corn-Other (27),2017-2024,1200.0386200996754,Rotation
+Rot Corn-Other (28),2017-2024,2823.7380060200435,Rotation
+Rot Corn-Other (29),2017-2024,108.28312169311405,Rotation
+Rot Corn-Other (39),2017-2024,86.65711039613132,Rotation
+Rot Corn-Other (41),2017-2024,275.88851092262985,Rotation
+Rot Corn-Other (42),2017-2024,5227.9155191022555,Rotation
+Rot Corn-Other (43),2017-2024,1930.261724258946,Rotation
+Rot Corn-Other (44),2017-2024,201.46615763540876,Rotation
+Rot Corn-Other (47),2017-2024,92.98073631339122,Rotation
+Rot Corn-Other (49),2017-2024,568.913030828245,Rotation
+Rot Corn-Other (50),2017-2024,143.89550422227543,Rotation
+Rot Corn-Other (53),2017-2024,1939.6811405525518,Rotation
+Rot Corn-Other (56),2017-2024,3.04308165645704,Rotation
+Rot Corn-Other (58),2017-2024,349.3292964726597,Rotation
+Rot Corn-Other (6),2017-2024,49.8651282393191,Rotation
+Rot Corn-Other (60),2017-2024,11.1530738616756,Rotation
+Rot Corn-Other (66),2017-2024,6.68716945337731,Rotation
+Rot Corn-Other (68),2017-2024,908.5011245460573,Rotation
+Rot Corn-Other (69),2017-2024,602.4791604242928,Rotation
+Rot Corn-Other (70),2017-2024,8.06506130144193,Rotation
+Rot Corn-Other Hay,2017-2024,67753.23254055351,Rotation
+Rot Corn-Sod/Grass Seed,2017-2024,75.29899429352459,Rotation
+Rot Corn-Sorghum,2017-2024,1103.9564004957858,Rotation
+Rot Corn-Soybeans,2017-2024,306104.8606285279,Rotation
+Rot Corn-Spring Wheat,2017-2024,2.93944396443346,Rotation
+Rot Corn-Winter Wheat,2017-2024,15497.771173807025,Rotation
+Rot Developed-Grass/Pasture,2017-2024,43.60177060320119,Rotation
+Rot Developed-Other (12),2017-2024,4.64171092793598,Rotation
+Rot Developed-Other (205),2017-2024,6.88495691007856,Rotation
+Rot Developed-Other (229),2017-2024,23.2189793983869,Rotation
+Rot Developed-Other (27),2017-2024,10.87094265918876,Rotation
+Rot Developed-Other (28),2017-2024,3.10380017803768,Rotation
+Rot Developed-Other (42),2017-2024,3.59584020282613,Rotation
+Rot Developed-Other (49),2017-2024,9.807844343909569,Rotation
+Rot Developed-Other (67),2017-2024,3.62346641273696,Rotation
+Rot Developed-Other (68),2017-2024,125.2760959063178,Rotation
+Rot Developed-Other (69),2017-2024,132.98252280048183,Rotation
+Rot Developed-Other (77),2017-2024,4.84056316495329,Rotation
+Rot Developed-Other Hay,2017-2024,1347.8368478116154,Rotation
+Rot Developed-Soybeans,2017-2024,5.72491314845053,Rotation
+Rot Developed-Winter Wheat,2017-2024,20.60533135174945,Rotation
+Rot Fallow-Grass/Pasture,2017-2024,66.91999500577731,Rotation
+Rot Fallow-Other (131),2017-2024,2.47598410352295,Rotation
+Rot Fallow-Other (28),2017-2024,9.25991288526759,Rotation
+Rot Fallow-Other (49),2017-2024,159.6297646822821,Rotation
+Rot Fallow-Other (67),2017-2024,8.71540714683868,Rotation
+Rot Fallow-Other (68),2017-2024,552.3229143608877,Rotation
+Rot Fallow-Other (69),2017-2024,4.94610044059179,Rotation
+Rot Fallow-Other Hay,2017-2024,725.1757926654283,Rotation
+Rot Fallow-Soybeans,2017-2024,3343.511441240281,Rotation
+Rot Fallow-Winter Wheat,2017-2024,74.99191766187627,Rotation
+Rot Forest-Grass/Pasture,2017-2024,39.30612139866867,Rotation
+Rot Forest-Other (12),2017-2024,145.29657319229008,Rotation
+Rot Forest-Other (152),2017-2024,2.63597623894885,Rotation
+Rot Forest-Other (205),2017-2024,2.32392754684342,Rotation
+Rot Forest-Other (219),2017-2024,2.96456771559746,Rotation
+Rot Forest-Other (228),2017-2024,5.48352733145273,Rotation
+Rot Forest-Other (27),2017-2024,25.87388311963145,Rotation
+Rot Forest-Other (28),2017-2024,26.769304272472326,Rotation
+Rot Forest-Other (30),2017-2024,12.22026941180179,Rotation
+Rot Forest-Other (42),2017-2024,12.16213674763434,Rotation
+Rot Forest-Other (43),2017-2024,14.40622270400713,Rotation
+Rot Forest-Other (44),2017-2024,57.59185723416246,Rotation
+Rot Forest-Other (49),2017-2024,8.68211754090034,Rotation
+Rot Forest-Other (50),2017-2024,17.0811395234186,Rotation
+Rot Forest-Other (66),2017-2024,34.131285024168264,Rotation
+Rot Forest-Other (67),2017-2024,19.54474514646462,Rotation
+Rot Forest-Other (68),2017-2024,504.5961871757769,Rotation
+Rot Forest-Other (69),2017-2024,1810.9726693029022,Rotation
+Rot Forest-Other Hay,2017-2024,849.9927773744577,Rotation
+Rot Forest-Soybeans,2017-2024,136.47747653480573,Rotation
+Rot Forest-Winter Wheat,2017-2024,161.1661192963777,Rotation
+Rot Grass/Pasture-Other (12),2017-2024,61.44977859833081,Rotation
+Rot Grass/Pasture-Other (131),2017-2024,10.807906257640429,Rotation
+Rot Grass/Pasture-Other (152),2017-2024,6.47152168886796,Rotation
+Rot Grass/Pasture-Other (205),2017-2024,8.28660258090364,Rotation
+Rot Grass/Pasture-Other (220),2017-2024,5.96450792720133,Rotation
+Rot Grass/Pasture-Other (222),2017-2024,14.4332917031871,Rotation
+Rot Grass/Pasture-Other (242),2017-2024,102.68498697676876,Rotation
+Rot Grass/Pasture-Other (25),2017-2024,15.998415711774651,Rotation
+Rot Grass/Pasture-Other (27),2017-2024,125.5851653640298,Rotation
+Rot Grass/Pasture-Other (28),2017-2024,2.70760954736806,Rotation
+Rot Grass/Pasture-Other (29),2017-2024,4.39935394687497,Rotation
+Rot Grass/Pasture-Other (39),2017-2024,4.79891561866505,Rotation
+Rot Grass/Pasture-Other (42),2017-2024,7.23518386494721,Rotation
+Rot Grass/Pasture-Other (43),2017-2024,126.4480367979651,Rotation
+Rot Grass/Pasture-Other (44),2017-2024,2.99304966812502,Rotation
+Rot Grass/Pasture-Other (47),2017-2024,5.8294226630496695,Rotation
+Rot Grass/Pasture-Other (49),2017-2024,25.77437146715866,Rotation
+Rot Grass/Pasture-Other (56),2017-2024,12.63684912905872,Rotation
+Rot Grass/Pasture-Other (58),2017-2024,3.6043947137829,Rotation
+Rot Grass/Pasture-Other (6),2017-2024,8.22411456587627,Rotation
+Rot Grass/Pasture-Other (66),2017-2024,72.93425770111992,Rotation
+Rot Grass/Pasture-Other (67),2017-2024,50.22779138714991,Rotation
+Rot Grass/Pasture-Other (68),2017-2024,14268.40556864168,Rotation
+Rot Grass/Pasture-Other (69),2017-2024,16256.255179706553,Rotation
+Rot Grass/Pasture-Other (70),2017-2024,16.1786909142001,Rotation
+Rot Grass/Pasture-Other (77),2017-2024,9.10506683827369,Rotation
+Rot Grass/Pasture-Other Hay,2017-2024,1109407.6194964724,Rotation
+Rot Grass/Pasture-Sorghum,2017-2024,18.932526934118222,Rotation
+Rot Grass/Pasture-Soybeans,2017-2024,811.4342187410566,Rotation
+Rot Grass/Pasture-Winter Wheat,2017-2024,173.65534900969527,Rotation
+Rot Other (111)-Other (68),2017-2024,3.70120869437001,Rotation
+Rot Other (111)-Other (92),2017-2024,3.31938077057141,Rotation
+Rot Other (111)-Other Hay,2017-2024,24.36882090855462,Rotation
+Rot Other (111)-Winter Wheat,2017-2024,8.79266293217443,Rotation
+Rot Other (12)-Other (131),2017-2024,3.71823847596086,Rotation
+Rot Other (12)-Other (142),2017-2024,2.98290637535681,Rotation
+Rot Other (12)-Other (49),2017-2024,48.319116695702,Rotation
+Rot Other (12)-Other (68),2017-2024,140.57797688081743,Rotation
+Rot Other (12)-Other Hay,2017-2024,10.109938350034358,Rotation
+Rot Other (12)-Soybeans,2017-2024,38.608751599639476,Rotation
+Rot Other (122)-Other (68),2017-2024,3.9773882498898,Rotation
+Rot Other (122)-Other (69),2017-2024,9.3483056880037,Rotation
+Rot Other (122)-Other Hay,2017-2024,91.850566793166,Rotation
+Rot Other (123)-Other (27),2017-2024,2.72723818977929,Rotation
+Rot Other (123)-Other (42),2017-2024,5.13671969461411,Rotation
+Rot Other (123)-Other Hay,2017-2024,50.31008524736718,Rotation
+Rot Other (124)-Other (53),2017-2024,5.32064593305295,Rotation
+Rot Other (124)-Other (68),2017-2024,7.85271758970634,Rotation
+Rot Other (124)-Other Hay,2017-2024,43.57099794638044,Rotation
+Rot Other (124)-Soybeans,2017-2024,8.098047020971,Rotation
+Rot Other (131)-Other (27),2017-2024,4.04396883035892,Rotation
+Rot Other (131)-Other (44),2017-2024,3.72222963881928,Rotation
+Rot Other (131)-Other (68),2017-2024,17.5188554786955,Rotation
+Rot Other (131)-Other (69),2017-2024,5.8724998033235405,Rotation
+Rot Other (131)-Other Hay,2017-2024,64.30743426610626,Rotation
+Rot Other (131)-Soybeans,2017-2024,17.89092061626917,Rotation
+Rot Other (142)-Other Hay,2017-2024,8.01873131069275,Rotation
+Rot Other (142)-Sorghum,2017-2024,3.71573215022326,Rotation
+Rot Other (142)-Winter Wheat,2017-2024,6.73443746688192,Rotation
+Rot Other (143)-Other (68),2017-2024,24.18323792353504,Rotation
+Rot Other (143)-Other (69),2017-2024,32.74666780632762,Rotation
+Rot Other (143)-Other (92),2017-2024,5.42331092359282,Rotation
+Rot Other (143)-Other Hay,2017-2024,22.14383336455858,Rotation
+Rot Other (152)-Other (68),2017-2024,29.73124864796621,Rotation
+Rot Other (190)-Other (3),2017-2024,5.1944949046213,Rotation
+Rot Other (190)-Other (43),2017-2024,12.0935493369535,Rotation
+Rot Other (190)-Other (49),2017-2024,159.65626974038787,Rotation
+Rot Other (190)-Other (68),2017-2024,6.73216287895258,Rotation
+Rot Other (190)-Other (69),2017-2024,3.31249704090407,Rotation
+Rot Other (190)-Other Hay,2017-2024,61.55893807050382,Rotation
+Rot Other (190)-Soybeans,2017-2024,25.131981335268428,Rotation
+Rot Other (190)-Winter Wheat,2017-2024,2.59913716310541,Rotation
+Rot Other (195)-Other (28),2017-2024,12.5020585217633,Rotation
+Rot Other (195)-Other (49),2017-2024,69.14722045242759,Rotation
+Rot Other (195)-Other Hay,2017-2024,60.803973323578944,Rotation
+Rot Other (195)-Soybeans,2017-2024,24.847311253155002,Rotation
+Rot Other (205)-Other Hay,2017-2024,39.53567378241358,Rotation
+Rot Other (206)-Other (49),2017-2024,6.58255092497051,Rotation
+Rot Other (216)-Other (69),2017-2024,14.86343186432984,Rotation
+Rot Other (219)-Other (49),2017-2024,176.31297156384474,Rotation
+Rot Other (220)-Other (68),2017-2024,68.9004550212166,Rotation
+Rot Other (221)-Other Hay,2017-2024,5.57791050978524,Rotation
+Rot Other (222)-Other (49),2017-2024,46.434856617131814,Rotation
+Rot Other (222)-Sod/Grass Seed,2017-2024,23.93876332380896,Rotation
+Rot Other (222)-Soybeans,2017-2024,68.4998866073624,Rotation
+Rot Other (227)-Other (49),2017-2024,15.0384059081231,Rotation
+Rot Other (228)-Other Hay,2017-2024,293.1788550994858,Rotation
+Rot Other (228)-Soybeans,2017-2024,13.5754094423407,Rotation
+Rot Other (229)-Other Hay,2017-2024,15.27755943434326,Rotation
+Rot Other (236)-Other Hay,2017-2024,18.79025928412372,Rotation
+Rot Other (242)-Other (69),2017-2024,35.53228359259958,Rotation
+Rot Other (243)-Other (49),2017-2024,4.82857725596388,Rotation
+Rot Other (243)-Other (68),2017-2024,41.14679436847629,Rotation
+Rot Other (243)-Other (69),2017-2024,4.17062992962507,Rotation
+Rot Other (246)-Other (49),2017-2024,10.7177186943097,Rotation
+Rot Other (249)-Other Hay,2017-2024,5.28813844889341,Rotation
+Rot Other (25)-Other Hay,2017-2024,45.31293710727962,Rotation
+Rot Other (26)-Other Hay,2017-2024,2.38483796744741,Rotation
+Rot Other (27)-Other (43),2017-2024,6.89576430251351,Rotation
+Rot Other (27)-Other Hay,2017-2024,51.14788403774001,Rotation
+Rot Other (27)-Soybeans,2017-2024,26.4895967577725,Rotation
+Rot Other (27)-Winter Wheat,2017-2024,10.67705790163825,Rotation
+Rot Other (28)-Other (43),2017-2024,75.0851439754195,Rotation
+Rot Other (28)-Other Hay,2017-2024,143.3645617210252,Rotation
+Rot Other (28)-Soybeans,2017-2024,102.19863351743679,Rotation
+Rot Other (29)-Other Hay,2017-2024,42.8808314379636,Rotation
+Rot Other (29)-Soybeans,2017-2024,23.0460664080817,Rotation
+Rot Other (30)-Other Hay,2017-2024,14.40968989012954,Rotation
+Rot Other (35)-Other (49),2017-2024,44.14750237471604,Rotation
+Rot Other (39)-Other Hay,2017-2024,45.9080842455394,Rotation
+Rot Other (39)-Soybeans,2017-2024,38.3151591416303,Rotation
+Rot Other (41)-Other (68),2017-2024,16.7813884864303,Rotation
+Rot Other (42)-Other (68),2017-2024,58.09196493742801,Rotation
+Rot Other (42)-Other (69),2017-2024,9.62270761418415,Rotation
+Rot Other (42)-Other Hay,2017-2024,54.95419789601585,Rotation
+Rot Other (42)-Soybeans,2017-2024,93.20119371942731,Rotation
+Rot Other (43)-Other (49),2017-2024,358.55933653355766,Rotation
+Rot Other (43)-Other (68),2017-2024,32.01885956767265,Rotation
+Rot Other (43)-Other (69),2017-2024,39.422684570864604,Rotation
+Rot Other (43)-Other Hay,2017-2024,5.82874648275009,Rotation
+Rot Other (43)-Soybeans,2017-2024,30.637831613223113,Rotation
+Rot Other (43)-Winter Wheat,2017-2024,1352.3845432054634,Rotation
+Rot Other (44)-Other (68),2017-2024,3.7587267777579,Rotation
+Rot Other (44)-Other (69),2017-2024,8.20010960483621,Rotation
+Rot Other (44)-Other Hay,2017-2024,13.4971025316261,Rotation
+Rot Other (44)-Soybeans,2017-2024,9.56246613191109,Rotation
+Rot Other (47)-Other Hay,2017-2024,10.0138250546675,Rotation
+Rot Other (49)-Other (50),2017-2024,9.00848674224302,Rotation
+Rot Other (49)-Other (57),2017-2024,158.7187976188189,Rotation
+Rot Other (49)-Other Hay,2017-2024,178.2398509284543,Rotation
+Rot Other (49)-Sod/Grass Seed,2017-2024,86.66038318505603,Rotation
+Rot Other (49)-Sorghum,2017-2024,58.1890096581374,Rotation
+Rot Other (49)-Soybeans,2017-2024,1919.4478903904271,Rotation
+Rot Other (50)-Other (68),2017-2024,69.4080143026587,Rotation
+Rot Other (54)-Other Hay,2017-2024,3.2978937669446,Rotation
+Rot Other (57)-Sod/Grass Seed,2017-2024,50.2422025275917,Rotation
+Rot Other (58)-Other (68),2017-2024,27.18689456763996,Rotation
+Rot Other (58)-Other Hay,2017-2024,175.25191406645968,Rotation
+Rot Other (66)-Other (68),2017-2024,1531.8294293923784,Rotation
+Rot Other (66)-Other (69),2017-2024,42.60793388029429,Rotation
+Rot Other (67)-Other (68),2017-2024,215.458625284584,Rotation
+Rot Other (67)-Sod/Grass Seed,2017-2024,5.10044764262171,Rotation
+Rot Other (68)-Other (69),2017-2024,47.38817462710473,Rotation
+Rot Other (68)-Other (70),2017-2024,162.36808565717615,Rotation
+Rot Other (68)-Other (77),2017-2024,35.51534577218888,Rotation
+Rot Other (68)-Other Hay,2017-2024,132.77000261689588,Rotation
+Rot Other (68)-Sorghum,2017-2024,11.017997743277,Rotation
+Rot Other (68)-Soybeans,2017-2024,348.58622589994155,Rotation
+Rot Other (68)-Winter Wheat,2017-2024,128.92747630214663,Rotation
+Rot Other (69)-Other Hay,2017-2024,54.05911132531672,Rotation
+Rot Other (69)-Soybeans,2017-2024,99.14469380822288,Rotation
+Rot Other (69)-Winter Wheat,2017-2024,6.6292716153052105,Rotation
+Rot Other (70)-Other Hay,2017-2024,9.6077320471075,Rotation
+Rot Other (77)-Other Hay,2017-2024,5.5678241031415,Rotation
+Rot Other Hay-Sod/Grass Seed,2017-2024,33.926703528774695,Rotation
+Rot Other Hay-Sorghum,2017-2024,101.3992183385073,Rotation
+Rot Other Hay-Soybeans,2017-2024,1395.679176939774,Rotation
+Rot Other Hay-Spring Wheat,2017-2024,20.2880847413947,Rotation
+Rot Other Hay-Winter Wheat,2017-2024,283.11800338164846,Rotation
+Rot Sod/Grass Seed-Soybeans,2017-2024,217.3881147147488,Rotation
+Rot Soybeans-Winter Wheat,2017-2024,4197.893854179172,Rotation

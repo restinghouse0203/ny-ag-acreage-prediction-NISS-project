@@ -1,0 +1,5 @@
+Model,Accuracy,Precision (Macro),Recall (Macro),F1-Score (Macro),ROC AUC (Macro),Macro F1
+KNN,0.8568,0.8482,0.8468,0.8464,0.9499,
+CatBoost,0.8704,0.874,0.8662,0.8635,0.9687,
+LSTM,0.9192,,,,,0.9118
+LSTM,0.5317,,,,,0.4419

@@ -1,0 +1,13 @@
+geopandas
+pandas
+pyarrow
+catboost
+scikit-learn
+matplotlib
+seaborn
+torch
+fiona
+shapely
+pyproj
+statsmodels
+requests

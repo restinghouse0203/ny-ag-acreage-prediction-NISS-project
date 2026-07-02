@@ -1,0 +1,3 @@
+Model,Test_Accuracy,Best_Val_Accuracy
+Geometric_CNN,0.5392,59.20%
+Geometric_RNN,0.5346,57.33%

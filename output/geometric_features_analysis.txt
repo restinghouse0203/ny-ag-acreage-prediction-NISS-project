@@ -1,0 +1,61 @@
+
+    HOW THESE MODELS COMBINE GEOMETRIC FEATURES FOR CROP CLASSIFICATION:
+    
+    1. K-NEAREST NEIGHBORS (KNN) - SPATIAL PROXIMITY APPROACH:
+    ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+    • GEOMETRIC INTEGRATION:
+      - Uses Longitude_Norm & Latitude_Norm as direct spatial coordinates
+      - County-level features (CNTYFIPS, County_Crop_Diversity) provide regional context
+      - County_Avg_Field_Size captures local farming scale patterns
+    
+    • SPATIAL REASONING:
+      - Calculates Euclidean distance in multi-dimensional space including coordinates
+      - Nearby fields (spatially) with similar weather/history patterns are weighted heavily
+      - Regional agricultural practices naturally clustered through coordinate similarity
+    
+    • GEOMETRIC ADVANTAGE:
+      - Captures spatial autocorrelation: "neighboring fields tend to have similar crops"
+      - Handles complex geographic boundaries and micro-climates
+      - Good for identifying spatial clusters of specialized farming (e.g., grape regions)
+    
+    2. CATBOOST - HIERARCHICAL SPATIAL DECISION TREES:
+    ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+    • GEOMETRIC INTEGRATION:
+      - Creates decision rules combining coordinates with other features
+      - Example: "If Longitude < -76.5 AND Planting_Precip > X → Corn"
+      - County features enable regional specialization rules
+    
+    • SPATIAL REASONING:
+      - Builds tree splits that naturally define geographic regions
+      - Combines spatial location with weather/temporal patterns
+      - Handles categorical county data effectively (built-in cat feature support)
+    
+    • GEOMETRIC ADVANTAGE:
+      - Identifies geographic farming zones automatically through tree splits
+      - Captures interaction between location and weather (altitude, lake effects)
+      - Robust to outlier fields within regions
+    
+    MULTI-SCALE GEOMETRIC MODELING APPROACH:
+    ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+    
+    FINE-SCALE (Field Level):
+    • Longitude_Norm, Latitude_Norm: Precise field positioning
+    • Captures local variations within counties
+    
+    MEDIUM-SCALE (County Level):  
+    • CNTYFIPS: Administrative boundaries with policy/infrastructure impacts
+    • County_Crop_Diversity: Regional agricultural specialization patterns
+    • County_Avg_Field_Size: Local farming scale and mechanization levels
+    
+    INTEGRATION BENEFITS:
+    • Fields with similar coordinates + weather + history → likely similar crops
+    • Regional specialization captured through county-level aggregations  
+    • Multi-scale approach handles both local variations and broad regional trends
+    • Geometric features provide spatial context that pure weather/history models miss
+    
+    EXPECTED SPATIAL PATTERNS IN NY AGRICULTURE:
+    • Western NY: Corn-Soy rotations, larger fields → Longitude_Norm < -78°
+    • Finger Lakes: Specialized crops, wine grapes → Central coordinates with low diversity
+    • North Country: Dairy/Hay emphasis → Higher Latitude_Norm, high Hay/Grass probability
+    • Hudson Valley: Diverse/mixed farming → High County_Crop_Diversity values
+    

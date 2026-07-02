@@ -1,0 +1,209 @@
+---
+title: "eda_soil_crop_acreage"
+output: html_document
+date: "2026-02-17"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+library(readr)
+library(dplyr)
+library(ggplot2)
+library(stringr)
+```
+
+```{r}
+df <- read_csv("../../data/processed/merged_data/soil_crop_acreage_panel_2017_2024.csv",
+               show_col_types = FALSE)
+
+# basic checks
+dim(df)
+head(df)
+
+# key checks
+sort(unique(df$year))
+n_distinct(df$county_fips)
+n_distinct(df$crop_code)
+```
+
+
+
+```{r}
+crop_totals <- df %>%
+  group_by(crop_code) %>%
+  summarise(
+    total_area = sum(acreage_area_proxy, na.rm = TRUE),
+    .groups = "drop"
+  ) %>%
+  arrange(desc(total_area))
+
+head(crop_totals, 10)
+```
+
+```{r}
+# Top 5 crops
+TOP_K <- 5
+top_crops <- crop_totals %>%
+  slice_head(n = TOP_K) %>%
+  pull(crop_code)
+
+top_crops
+```
+Step 3 — Acreage distribution of major crops
+```{r}
+crop_totals %>%
+  slice_head(n = 10) %>%
+  mutate(crop_code = factor(crop_code, levels = crop_code)) %>%
+  ggplot(aes(x = crop_code, y = total_area)) +
+  geom_col() +
+  labs(
+    title = "Top 10 Crops by Total Acreage (Area Proxy)",
+    x = "Crop code",
+    y = "Total acreage (area proxy)"
+  ) +
+  theme_bw()
+```
+Step 4 — Subset data to major crops
+```{r}
+df_top <- df %>%
+  filter(crop_code %in% top_crops)
+
+dim(df_top)
+```
+```{r}
+names(df)[grepl("muaggatt", names(df))]
+```
+
+
+Step 5 — Define soil variables of interest
+```{r}
+soil_vars <- c(
+  "gSSURGO_NY — muaggatt_slopegradwta",
+  "gSSURGO_NY — muaggatt_brockdepmin",
+  "gSSURGO_NY — muaggatt_wtdepannmin",
+  "gSSURGO_NY — muaggatt_wtdepaprjunmin"
+)
+
+
+soil_vars <- soil_vars[soil_vars %in% names(df)]
+soil_vars
+```
+6. Boxplots：soil × crop
+```{r}
+for (sv in soil_vars) {
+  p <- ggplot(
+    df_top,
+    aes(x = factor(crop_code), y = .data[[sv]])
+  ) +
+    geom_boxplot(outlier.alpha = 0.3) +
+    labs(
+      title = paste("Soil distribution by crop:", sv),
+      x = "Crop code",
+      y = sv
+    ) +
+    theme_bw()
+
+  print(p)
+}
+```
+
+
+
+Step 7 — Soil vs acreage (continuous relationship)
+```{r}
+crop_focus <- top_crops[1]
+df_focus <- df %>%
+  filter(crop_code == crop_focus)
+
+for (sv in soil_vars) {
+  p <- ggplot(
+    df_focus,
+    aes(x = .data[[sv]], y = acreage_area_proxy)
+  ) +
+    geom_point(alpha = 0.6) +
+    geom_smooth(method = "lm", se = FALSE) +
+    labs(
+      title = paste("Soil vs Acreage (Crop =", crop_focus, "):", sv),
+      x = sv,
+      y = "Acreage (area proxy)"
+    ) +
+    theme_bw()
+
+  print(p)
+}
+
+```
+Step 8 — Compare soil–acreage slopes across crops
+
+```{r}
+soil_focus <- soil_vars[1]  # 比如 slopegradwta
+
+ggplot(
+  df_top,
+  aes(
+    x = .data[[soil_focus]],
+    y = acreage_area_proxy,
+    color = factor(crop_code)
+  )
+) +
+  geom_point(alpha = 0.5) +
+  geom_smooth(method = "lm", se = FALSE) +
+  labs(
+    title = paste("Soil vs Acreage across crops:", soil_focus),
+    x = soil_focus,
+    y = "Acreage (area proxy)",
+    color = "Crop code"
+  ) +
+  theme_bw()
+
+```
+
+```{r}
+soil_focus_ann <- "gSSURGO_NY — muaggatt_wtdepannmin"
+
+ggplot(
+  df_top,
+  aes(
+    x = .data[[soil_focus_ann]],
+    y = acreage_area_proxy,
+    color = factor(crop_code)
+  )
+) +
+  geom_point(alpha = 0.5) +
+  geom_smooth(method = "lm", se = FALSE) +
+  labs(
+    title = "Soil vs Acreage across crops: Annual Minimum Water-Table Depth",
+    x = "Annual minimum depth to water table",
+    y = "Acreage (area proxy)",
+    color = "Crop code"
+  ) +
+  theme_bw()
+
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
